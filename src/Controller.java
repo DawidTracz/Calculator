@@ -55,6 +55,6 @@ public class Controller {
     }
     @FXML
     public void clearPressed(ActionEvent event) {
-        textBar.setText("0");
+        textBar.setText("");
     }
 }
